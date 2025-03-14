@@ -1,7 +1,7 @@
 pipeline
     {
        agent {
-            label 'maven'
+            label 'java11-maven'
         }
 
         stages
